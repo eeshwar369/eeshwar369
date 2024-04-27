@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eeshwar369&label=Profile%20views&color=0e75b6&style=flat" alt="eeshwar369" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning ,Backend Development**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning ,Backend Development**
 
 - 💬 Ask me about **Django ,Flask and React**
 
