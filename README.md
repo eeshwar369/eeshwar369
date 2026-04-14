@@ -81,10 +81,6 @@ Implemented advanced data structures and optimization techniques to solve comple
 
 ## GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eeshwar369&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeshwar369&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=eeshwar369&theme=tokyonight&hide_border=true"/>
