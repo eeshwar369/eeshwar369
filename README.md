@@ -17,7 +17,6 @@
 - Currently learning Artificial Intelligence, Machine Learning & Backend Development  
 - Ask me about Django, Flask, React, REST APIs  
 - Reach me at: baleshwarpalavadi@gmail.com  
-- Fun fact: I enjoy building and expressing ideas through code  
 
 ---
 
@@ -58,19 +57,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=eeshwar369&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## Additional Information  
-
-- Continuously building and experimenting with new technologies  
-- Strong interest in AI and real-world problem solving  
-- Open to collaborations and hackathons  
-
----
-
-## Quote  
-> "Code. Learn. Build. Repeat."
 
 ---
 
