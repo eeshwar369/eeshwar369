@@ -30,9 +30,9 @@ Actively involved in competitive programming and system design learning.
 
 ## Achievements  
 
-- Codeforces Rating: **XXXX**  
-- LeetCode Problems Solved: **XXXX+**  
-- Global/Contest Ranking: **XXXX**  
+- Codeforces Rating: **1510**  
+- LeetCode Problems Solved: **2000+**  
+- Global/Contest Ranking: **20,000**  
 - GitHub Contributions: **900+**  
 
 ---
@@ -59,21 +59,23 @@ Actively involved in competitive programming and system design learning.
 
 ## Featured Projects  
 
-### Project 1 — Short Title  
-Brief 1-line description of what it solves and tech used  
-[Repository](https://github.com/eeshwar369/YOUR_REPO_1)
+## Featured Projects  
 
-### Project 2 — Short Title  
-Brief description (focus on impact + tech stack)  
-[Repository](https://github.com/eeshwar369/YOUR_REPO_2)
+### Support Queue System  
+Designed a scalable support queue management system to handle and prioritize user requests efficiently, improving response workflow and reducing wait times.  
+[Repository](https://github.com/eeshwar369/Support-Queue-OpenEnv)
 
-### Project 3 — Short Title  
-Brief description  
-[Repository](https://github.com/eeshwar369/YOUR_REPO_3)
+### YourFirstMove  
+Developed an interactive strategy-based application with optimized algorithms for move evaluation and decision-making logic.  
+[Repository](https://github.com/eeshwar369/YourFirstMove)
 
-### Project 4 — Short Title  
-Brief description  
-[Repository](https://github.com/eeshwar369/YOUR_REPO_4)
+### Fetii Hack  
+Built a full-stack application in a hackathon setting with real-time features and seamless frontend-backend integration.  
+[Repository](https://github.com/eeshwar369/Fetii-Hack)
+
+### Advanced Algorithms  
+Implemented advanced data structures and optimization techniques to solve complex computational problems efficiently.  
+[Repository](https://github.com/eeshwar369/Advanced-Algorithms)
 
 ---
 
