@@ -1,40 +1,50 @@
-<!-- Banner -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=Baleeshwar%20Palavadi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Baleeshwar%20Palavadi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">Hi, I'm Baleeshwar Palavadi</h1>
-<h3 align="center">Software Engineer | Tech Enthusiast | Problem Solver</h3>
+<h1 align="center">Baleeshwar Palavadi</h1>
+<h3 align="center">Software Engineer | Backend Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eeshwar369&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## About Me  
-
-- Currently learning Artificial Intelligence, Machine Learning & Backend Development  
-- Ask me about Django, Flask, React, REST APIs  
-- Reach me at: baleshwarpalavadi@gmail.com  
-
----
-
-## Connect With Me  
-
-<p align="center">
+  <a href="mailto:baleshwarpalavadi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" />
+  </a>
   <a href="https://linkedin.com/in/baleeshwar-palavadi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://www.codechef.com/users/learnerdaily5">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/Resume-Download-success?style=flat&logo=adobeacrobatreader" />
   </a>
-  <a href="https://codeforces.com/profile/learnerdaily5">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/catchme999">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+</p>
+
+---
+
+## Summary  
+
+Backend-focused developer with strong problem-solving skills.  
+Experience building scalable APIs, full-stack applications, and working with modern cloud technologies.  
+Actively involved in competitive programming and system design learning.
+
+---
+
+## Achievements  
+
+- Codeforces Rating: **XXXX**  
+- LeetCode Problems Solved: **XXXX+**  
+- Global/Contest Ranking: **XXXX**  
+- GitHub Contributions: **900+**  
+
+---
+
+## Competitive Programming  
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=learnerdaily5&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/catchme999?theme=dark&font=baloo&ext=contest" />
 </p>
 
 ---
@@ -47,8 +57,32 @@
 
 ---
 
-## GitHub Stats  
+## Featured Projects  
 
+### Project 1 — Short Title  
+Brief 1-line description of what it solves and tech used  
+[Repository](https://github.com/eeshwar369/YOUR_REPO_1)
+
+### Project 2 — Short Title  
+Brief description (focus on impact + tech stack)  
+[Repository](https://github.com/eeshwar369/YOUR_REPO_2)
+
+### Project 3 — Short Title  
+Brief description  
+[Repository](https://github.com/eeshwar369/YOUR_REPO_3)
+
+### Project 4 — Short Title  
+Brief description  
+[Repository](https://github.com/eeshwar369/YOUR_REPO_4)
+
+---
+
+## GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eeshwar369&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeshwar369&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=eeshwar369&theme=tokyonight&hide_border=true"/>
@@ -56,7 +90,39 @@
 
 ---
 
+## Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eeshwar369&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## Contribution Graph  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## Connect  
+
+<p align="center">
+  <a href="https://linkedin.com/in/baleeshwar-palavadi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://codeforces.com/profile/learnerdaily5">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces" />
+  </a>
+  <a href="https://leetcode.com/catchme999">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
+---
+
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
 </p>
